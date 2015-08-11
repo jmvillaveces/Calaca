@@ -19,8 +19,8 @@
  */
 
 var CALACA_CONFIGS = {
-	url: "",
-	index_name: "",
+	url: "http://dachstein.biochem.mpg.de:9200/",
+	index_name: "sample",
 	type: "",
 	size: 10,
 	search_delay: 500
